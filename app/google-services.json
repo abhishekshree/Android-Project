@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492656697632",
+    "project_id": "kalm-15785",
+    "storage_bucket": "kalm-15785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492656697632:android:a01752ac176c6775b03745",
+        "android_client_info": {
+          "package_name": "com.example.kalm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492656697632-2q1e8tlf5lm4lacvdtorg9j47tiggc03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SJ9P6G7HAO83QQCLdWJleTXeAR8KfGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492656697632-2q1e8tlf5lm4lacvdtorg9j47tiggc03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
